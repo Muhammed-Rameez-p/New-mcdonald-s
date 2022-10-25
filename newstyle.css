@@ -1,0 +1,168 @@
+body {
+    background-color:white;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    margin: 0%;
+}
+h3{
+    margin: 0%;
+}
+h4{
+    margin: 10px;
+}
+.one{
+    background-color: white;
+    margin: 15px 50px 50px 50px;
+    height: 120px;
+
+}
+.two{
+    background-color: white;
+    height: 42px;
+    position: relative;
+    left: 175px;
+    bottom: 112px;
+    width: 988px;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   font-size: 14px;
+
+}
+.two1{
+    display: flex;
+    
+}
+.two2{
+    display: flex;
+    margin: 0% 20px;
+    align-items: center;
+
+}
+.space{
+    margin: 0% 20px;
+}
+.three{
+    background-color: white;
+    height: 59px;
+    position: relative;
+    left: 175px;
+    bottom: 93px;
+    width: 930px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+/* .small{
+    position: absolute;
+    width: 100px;
+
+}
+.small2{
+    position: absolute;
+    width: 120px;
+    left: 110px;
+}
+.small3{
+    position: absolute;
+    width: 200px;
+    left: 250px;
+}
+.small4{
+    position: absolute;
+    width: 200px;
+    left: 480px;
+}  
+.small5{
+    position: absolute;
+    width: 200px;
+    left: 640px;
+}     
+.small6{
+    position: absolute;
+    width: 200px;
+    left: 810px;
+}     */
+
+.four{
+    background-color: white;
+    height: 441px;
+    width: 1180px;
+    margin: 75px auto;
+}
+.four1{
+    padding: 0px 15px;
+    width: 65.6%;
+}
+.four2{
+    position: relative;
+    left: 805px;
+    bottom: 377px;
+    height: 441px;
+    width: 350px;
+    padding: 0px 15px;
+    background-color:white;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.heading{
+    margin: 15px 0px 18px 0px ;
+    padding: 1px 0px;
+    width: 350px;
+    height: 120px;
+    font-size: 25px;
+}
+.line{
+    margin: 20px 0px;
+    padding: 60px 0px;
+}
+.yellowButton1 {
+    background-color: #ffbc0d; 
+    border: none;
+    border-radius: 5px;
+    color: black;
+    margin: 5px 0px;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .yellowButton2{
+    background-color: #ffbc0d; 
+    border: none;
+    border-radius: 5px;
+    color: black;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .top{
+    padding: 20px 0px;
+  }
+
+  footer{
+    background-color:#DCDCDC;
+    height: 150px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+.image1{
+   margin: 0% 17px; 
+   
+  }
+  hr{
+    outline: -2px;
+    position: relative;
+    top: 10px;
+
+  }
